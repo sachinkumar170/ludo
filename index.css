@@ -1,0 +1,36 @@
+#box{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+#box_down{
+    margin-top: 50px;
+}
+
+#box_one{
+    
+    margin: auto;
+    padding: auto;
+}
+
+
+
+#image_one{
+    max-width: 50%;
+}
+
+#image_two{
+    max-width: 50%;
+}
+
+#creater{
+    max-width: 20%;
+    border-radius: 50%;
+    overflow: hidden;
+   
+}
+
